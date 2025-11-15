@@ -84,6 +84,4 @@ Start-Sleep -Seconds $DelaySeconds
 [System.Windows.Forms.SendKeys]::SendWait("+(%{RIGHT})")
 
 # Script finished.
-
-
 ```
